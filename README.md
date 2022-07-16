@@ -2,6 +2,5 @@
 
 ##Repositório pra aprender
 
-Aulão de git com o Professor Kasuki
+Aulão de git com o Professor Kazuki  
 atualizando readme-natalia
-
